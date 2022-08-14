@@ -62,3 +62,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+# QR SCANNER CODE https://reeteshghimire.com.np/2021/05/27/access-camera-and-read-qr-code-using-javascript/
+# QR GENERATOR CODE https://codeanddeploy.com/blog/laravel/how-to-generate-qr-code-in-laravel-8
