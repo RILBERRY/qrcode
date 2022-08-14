@@ -1,0 +1,12 @@
+/* @font-face {
+    font-family: 'MV Typewriter';
+    src: url('mvtyper.ttf') format("truetype");
+} */
+p{
+    font-family: 'MV Typewriter';
+    color:red;
+    text-align:right;
+    direction: rtl;
+    unicode-bidi: bidi-override;
+
+}
